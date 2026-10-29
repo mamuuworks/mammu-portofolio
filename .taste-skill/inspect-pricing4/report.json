@@ -1,0 +1,1862 @@
+{
+ "url": "http://localhost:4174/#/pricing",
+ "at": "2026-10-29T18:09:58.047Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.25,
+    0.19,
+    0.39,
+    0.49
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 0,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2787,
+     "screens": 3.1,
+     "words": 269,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 118.1,
+     "vw": 8.2,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.95,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 132,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "lines": 2,
+     "size": 118.1,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 118.1,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 132,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICE LIST",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 649,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$80",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 762,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "SIMPLE",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 763,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$120",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 942,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STANDARD",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 943,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$160",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.21,
+      "top": 1122,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "COMPLEX",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 1123,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "CUSTOM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 1356,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ON REQUEST",
+      "words": 2,
+      "chars": 10,
+      "lines": 2,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 1356,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ADD-ONS",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 60,
+      "vw": 4.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1710,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      60,
+      118
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 78,
+     "max": {
+      "size": 118.1,
+      "vw": 8.2,
+      "font": "Chivo",
+      "text": "A visual loop"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 909,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Request a quote"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.99
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2787,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "h1#pricing-heading.font-black.uppercase",
+      "tag": "h1",
+      "top": 132,
+      "height": 224,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 649,
+      "height": 933,
+      "words": 86,
+      "media": 0,
+      "middle": 363,
+      "heading": {
+       "text": "Simple",
+       "size": 60,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 31,
+      "textLeft": 48,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 1710,
+      "height": 300,
+      "words": 106,
+      "media": 0,
+      "middle": 77,
+      "heading": {
+       "text": "Rush fee",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 141,
+      "textLeft": 48,
+      "textRight": 141,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 2139,
+      "height": 464,
+      "words": 23,
+      "media": 5,
+      "middle": 12,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 700,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "size": 118,
+      "top": 132,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 15
+     },
+     {
+      "x": 737,
+      "n": 4
+     },
+     {
+      "x": 661,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.23,
+    0.31,
+    0.33
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 0,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2652,
+     "screens": 2.6,
+     "words": 269,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 63,
+     "vw": 8.2,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.95,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.86,
+     "top": 132,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "lines": 2,
+     "size": 63,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 63,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 132,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICE LIST",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 595,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SIMPLE",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 683,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$80",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 683,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STANDARD",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 885,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$120",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 885,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "COMPLEX",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 1086,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$160",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 1086,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "CUSTOM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 1334,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ON REQUEST",
+      "words": 2,
+      "chars": 10,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.16,
+      "top": 1334,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ADD-ONS",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 1687,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      34,
+      63
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 38,
+     "max": {
+      "size": 63,
+      "vw": 8.2,
+      "font": "Chivo",
+      "text": "A visual loop"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 1034,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Request a quote"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.98
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2652,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "div.mt-14.grid",
+      "tag": "div",
+      "top": 332,
+      "height": 135,
+      "words": 32,
+      "media": 0,
+      "middle": 57,
+      "heading": null,
+      "left": 48,
+      "right": 93,
+      "textLeft": 48,
+      "textRight": 93,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 595,
+      "height": 964,
+      "words": 86,
+      "media": 0,
+      "middle": 35,
+      "heading": {
+       "text": "Simple",
+       "size": 34,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 46,
+      "textLeft": 48,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 1687,
+      "height": 399,
+      "words": 106,
+      "media": 0,
+      "middle": 49,
+      "heading": {
+       "text": "Rush fee",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 48,
+      "right": 69,
+      "textLeft": 48,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 2214,
+      "height": 254,
+      "words": 23,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "size": 63,
+      "top": 132,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 15
+     },
+     {
+      "x": 401,
+      "n": 4
+     },
+     {
+      "x": 374,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.49,
+    0.73,
+    0.53,
+    0.76,
+    0.65
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 0,
+    "transitions": 24,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 3569,
+     "screens": 4.2,
+     "words": 267,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "chars": 27,
+     "lines": 2,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.95,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 96,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A VISUAL LOOP STARTS AT $80",
+     "words": 6,
+     "lines": 2,
+     "size": 40,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "mammu",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Chivo",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 32,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 96,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICE LIST",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 557,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SIMPLE",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 647,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$80",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 694,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STANDARD",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 966,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$120",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1012,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "COMPLEX",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1284,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "$160",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1331,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "CUSTOM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 1659,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "ON REQUEST",
+      "words": 2,
+      "chars": 10,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1705,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ADD-ONS",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2058,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 4,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      32,
+      40
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "Chivo",
+      "text": "A visual loop"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.05,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 852,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      },
+      {
+       "color": "#f5f5f5",
+       "top": 1264,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Request a quote"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 627
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 56,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 3569,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "div.mt-14.grid",
+      "tag": "div",
+      "top": 228,
+      "height": 233,
+      "words": 32,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 557,
+      "height": 1405,
+      "words": 86,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Simple",
+       "size": 32,
+       "tag": "h3"
+      },
+      "left": 24,
+      "right": 34,
+      "textLeft": 24,
+      "textRight": 34,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.md:mt-32",
+      "tag": "div",
+      "top": 2058,
+      "height": 690,
+      "words": 106,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Rush fee",
+       "size": 16,
+       "tag": "h3"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 2844,
+      "height": 533,
+      "words": 23,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A VISUAL LOOP STARTS AT $80",
+      "size": 40,
+      "top": 96,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 15
+     },
+     {
+      "x": 44,
+      "n": 4
+     },
+     {
+      "x": 230,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/root/mammu-portofolio/.taste-skill/inspect-pricing4/desktop-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/inspect-pricing4/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/root/mammu-portofolio/.taste-skill/inspect-pricing4/tablet-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/inspect-pricing4/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/root/mammu-portofolio/.taste-skill/inspect-pricing4/mobile-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/inspect-pricing4/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

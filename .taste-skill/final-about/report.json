@@ -1,0 +1,1186 @@
+{
+ "url": "http://localhost:4174/#/about",
+ "at": "2026-10-29T17:52:59.847Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.23,
+    0.62,
+    0.61
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 0,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2423,
+     "screens": 2.7,
+     "words": 146,
+     "img": 5,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg",
+      "1350?grayscale"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "chars": 11,
+     "lines": 1,
+     "size": 100.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 164,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "lines": 1,
+     "size": 100.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "ABOUT MAMMU",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 164,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      22,
+      25,
+      101
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 88,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "About mammu"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 909,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.29
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 7,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.99
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2423,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "div.mt-14.grid",
+      "tag": "div",
+      "top": 337,
+      "height": 259,
+      "words": 75,
+      "media": 0,
+      "middle": 283,
+      "heading": null,
+      "left": 48,
+      "right": 69,
+      "textLeft": 48,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.grid",
+      "tag": "div",
+      "top": 724,
+      "height": 194,
+      "words": 37,
+      "media": 0,
+      "middle": 433,
+      "heading": {
+       "text": "Record",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 316,
+      "textLeft": 48,
+      "textRight": 316,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 1046,
+      "height": 464,
+      "words": 17,
+      "media": 5,
+      "middle": 12,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 713,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 1638,
+      "height": 609,
+      "words": 11,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "ABOUT MAMMU",
+      "size": 101,
+      "top": 164,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 2
+     },
+     {
+      "x": 540,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 24,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.23,
+    0.64,
+    0.58
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 0,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2437,
+     "screens": 2.4,
+     "words": 146,
+     "img": 5,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg",
+      "1350?grayscale"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "chars": 11,
+     "lines": 1,
+     "size": 53.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.86,
+     "top": 164,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "lines": 1,
+     "size": 53.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "ABOUT MAMMU",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 164,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      19,
+      22,
+      54
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 19,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 19.8
+     },
+     "measureChars": 41,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "About mammu"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 1034,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.29
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.98
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2437,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "div.mt-14.grid",
+      "tag": "div",
+      "top": 293,
+      "height": 327,
+      "words": 75,
+      "media": 0,
+      "middle": 55,
+      "heading": null,
+      "left": 48,
+      "right": 66,
+      "textLeft": 48,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.grid",
+      "tag": "div",
+      "top": 749,
+      "height": 314,
+      "words": 37,
+      "media": 0,
+      "middle": 205,
+      "heading": {
+       "text": "Record",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 1191,
+      "height": 254,
+      "words": 17,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 123,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 1573,
+      "height": 688,
+      "words": 11,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "ABOUT MAMMU",
+      "size": 54,
+      "top": 164,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 2
+     },
+     {
+      "x": 311,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 19,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.39,
+    0.39,
+    0.83,
+    0.63
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 0,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2725,
+     "screens": 3.2,
+     "words": 144,
+     "img": 5,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg",
+      "1350?grayscale"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "chars": 11,
+     "lines": 1,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 120,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "ABOUT MAMMU",
+     "words": 2,
+     "lines": 1,
+     "size": 44,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "mammu",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Chivo",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 32,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "ABOUT MAMMU",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 120,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 2,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      19,
+      22,
+      44
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 19,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 19.8
+     },
+     "measureChars": 36,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "text": "About mammu"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 852,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.69
+      },
+      {
+       "color": "#525252",
+       "share": 0.29
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 56,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2725,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "div.mt-14.grid",
+      "tag": "div",
+      "top": 216,
+      "height": 590,
+      "words": 75,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-24.grid",
+      "tag": "div",
+      "top": 902,
+      "height": 497,
+      "words": 37,
+      "media": 0,
+      "middle": 126,
+      "heading": {
+       "text": "Record",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 1495,
+      "height": 509,
+      "words": 17,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-24.md:mt-32",
+      "tag": "figure",
+      "top": 2100,
+      "height": 497,
+      "words": 11,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "ABOUT MAMMU",
+      "size": 44,
+      "top": 120,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 3
+     }
+    ],
+    "leftBlocks": 3,
+    "bodySize": 19,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-about/desktop-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-about/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-about/tablet-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-about/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-about/mobile-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-about/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+[
+ {
+  "file": "public/media/eink.webm",
+  "media": "video",
+  "poster": "public/media/eink-poster.jpg",
+  "ref": "commons:103475057",
+  "title": "E Ink Screen updating",
+  "creator": "Alexander Gee",
+  "creatorUrl": null,
+  "date": "2021-04-11",
+  "license": "CC BY-SA 4.0",
+  "licenseCode": "by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "creditRequired": true,
+  "page": "https://commons.wikimedia.org/wiki/File:E_Ink_Screen_updating.webm",
+  "via": "Wikimedia Commons",
+  "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/E_Ink_Screen_updating.webm/E_Ink_Screen_updating.webm.480p.vp9.webm",
+  "width": 854,
+  "height": 480,
+  "duration": 5,
+  "bytes": 517313,
+  "credit": "\"E Ink Screen updating\" by Alexander Gee, CC BY-SA 4.0, via Wikimedia Commons",
+  "notes": [
+   "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+  ]
+ }
+]

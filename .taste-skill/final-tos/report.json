@@ -1,0 +1,1078 @@
+{
+ "url": "http://localhost:4174/#/tos",
+ "at": "2026-10-29T17:52:23.738Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.15,
+    0.45,
+    0.43
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 0,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2001,
+     "screens": 2.2,
+     "words": 112,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 100.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 132,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "lines": 1,
+     "size": 100.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "TERMS OF SERVICE",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 132,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      22,
+      25,
+      101
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 88,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "Terms of service"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 909,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.54
+      },
+      {
+       "color": "#525252",
+       "share": 0.44
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ask a question"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 6,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.99
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2001,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "div.mt-20.space-y-14",
+      "tag": "div",
+      "top": 461,
+      "height": 708,
+      "words": 65,
+      "media": 0,
+      "middle": 432,
+      "heading": {
+       "text": "Payment",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-20.md:mt-28",
+      "tag": "figure",
+      "top": 1281,
+      "height": 440,
+      "words": 16,
+      "media": 5,
+      "middle": 12,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 721,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TERMS OF SERVICE",
+      "size": 101,
+      "top": 132,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 2,
+   "filled": [
+    0.19,
+    0.28
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 0,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1757,
+     "screens": 1.7,
+     "words": 112,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "chars": 16,
+     "lines": 1,
+     "size": 53.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.86,
+     "top": 132,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "lines": 1,
+     "size": 53.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "TERMS OF SERVICE",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 132,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      19,
+      22,
+      54
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "Terms of service"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 1034,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.54
+      },
+      {
+       "color": "#525252",
+       "share": 0.44
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ask a question"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.98
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1757,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "div.mt-20.space-y-14",
+      "tag": "div",
+      "top": 403,
+      "height": 708,
+      "words": 65,
+      "media": 0,
+      "middle": 204,
+      "heading": {
+       "text": "Payment",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-20.md:mt-28",
+      "tag": "figure",
+      "top": 1223,
+      "height": 254,
+      "words": 16,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 76,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TERMS OF SERVICE",
+      "size": 54,
+      "top": 132,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.31,
+    0.32,
+    0.42
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 0,
+    "transitions": 19,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2132,
+     "screens": 2.5,
+     "words": 110,
+     "img": 4,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "chars": 16,
+     "lines": 2,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 96,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "TERMS OF SERVICE",
+     "words": 3,
+     "lines": 2,
+     "size": 44,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "mammu",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Chivo",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 32,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "TERMS OF SERVICE",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 96,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 2,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      19,
+      22,
+      44
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "text": "Terms of service"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.08,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 852,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.53
+      },
+      {
+       "color": "#525252",
+       "share": 0.44
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ask a question"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 56,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2132,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "div.mt-10.flex",
+      "tag": "div",
+      "top": 217,
+      "height": 133,
+      "words": 14,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 26,
+      "textLeft": 24,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-20.space-y-14",
+      "tag": "div",
+      "top": 430,
+      "height": 881,
+      "words": 65,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Payment",
+       "size": 14,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "figure.mt-20.md:mt-28",
+      "tag": "figure",
+      "top": 1391,
+      "height": 509,
+      "words": 16,
+      "media": 5,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "TERMS OF SERVICE",
+      "size": 44,
+      "top": 96,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 6,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-tos/desktop-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-tos/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-tos/tablet-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-tos/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-tos/mobile-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-tos/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

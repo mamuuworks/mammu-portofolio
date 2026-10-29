@@ -1,0 +1,1763 @@
+{
+ "url": "http://localhost:4174/#/",
+ "at": "2026-10-29T17:46:03.251Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.67,
+    0.32,
+    0.24,
+    0.21
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2707,
+     "screens": 3,
+     "words": 111,
+     "img": 6,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 7,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "eink-poster.jpg",
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale",
+      "1500?grayscale"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "chars": 19,
+     "lines": 2,
+     "size": 100.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.51,
+     "top": 475,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "lines": 2,
+     "size": 100.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "MOTION, MONOCHROME.",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 475,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 868,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "AFTERGLOW",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1005,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "NOIRFM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1202,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STATIC BLOOM",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1398,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "GRAYSCALE FEST",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1595,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "HALF//LIGHT",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 1791,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "VESPER",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 1955,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "OBLIQUE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2084,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "KASSA",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 77.8,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2214,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "START A PROJECT",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2438,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      44,
+      66,
+      78,
+      101
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 100.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "Motion,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.17,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 909,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.66
+      },
+      {
+       "color": "#525252",
+       "share": 0.32
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 8,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.99
+     },
+     {
+      "type": "img",
+      "ratio": 0.79
+     },
+     {
+      "type": "video",
+      "ratio": 0.79
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2707,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "section.relative.flex",
+      "tag": "section",
+      "top": 68,
+      "height": 720,
+      "words": 25,
+      "media": 2,
+      "middle": 268,
+      "heading": {
+       "text": "Motion,",
+       "size": 101,
+       "tag": "h1"
+      },
+      "left": 48,
+      "right": 67,
+      "textLeft": 48,
+      "textRight": 67,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.px-6.pb-24",
+      "tag": "section",
+      "top": 788,
+      "height": 1919,
+      "words": 77,
+      "media": 5,
+      "middle": 0,
+      "heading": {
+       "text": "AFTERGLOW",
+       "size": 78,
+       "tag": "span"
+      },
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "MOTION, MONOCHROME.",
+      "size": 101,
+      "top": 475,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 2
+     },
+     {
+      "x": 638,
+      "n": 2
+     },
+     {
+      "x": 857,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 5,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.74,
+    0.22,
+    0.31
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2307,
+     "screens": 2.3,
+     "words": 111,
+     "img": 6,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "chars": 19,
+     "lines": 2,
+     "size": 53.8,
+     "vw": 7,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.51,
+     "top": 685,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "lines": 2,
+     "size": 53.8,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "MOTION, MONOCHROME.",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.51,
+      "top": 685,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 3.9,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.86,
+      "top": 992,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "AFTERGLOW",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1092,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "NOIRFM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1209,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STATIC BLOOM",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1325,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "GRAYSCALE FEST",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1441,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "HALF//LIGHT",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.67,
+      "top": 1557,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "VESPER",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1663,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "OBLIQUE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1758,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "KASSA",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1854,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "START A PROJECT",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 35.3,
+      "vw": 4.6,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2043,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      30,
+      35,
+      42,
+      54
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 53.8,
+      "vw": 7,
+      "font": "Chivo",
+      "text": "Motion,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.17,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 1034,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.66
+      },
+      {
+       "color": "#525252",
+       "share": 0.32
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 0.98
+     },
+     {
+      "type": "img",
+      "ratio": 0.81
+     },
+     {
+      "type": "video",
+      "ratio": 0.81
+     }
+    ],
+    "nav": {
+     "links": 3,
+     "fixed": false,
+     "height": 68,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2307,
+    "margins": {
+     "left": 48,
+     "right": 63
+    },
+    "sections": [
+     {
+      "sel": "section.relative.flex",
+      "tag": "section",
+      "top": 68,
+      "height": 844,
+      "words": 25,
+      "media": 2,
+      "middle": 53,
+      "heading": null,
+      "left": 48,
+      "right": 19,
+      "textLeft": 48,
+      "textRight": 19,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.px-6.pb-24",
+      "tag": "section",
+      "top": 912,
+      "height": 1395,
+      "words": 77,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "AFTERGLOW",
+       "size": 41,
+       "tag": "span"
+      },
+      "left": 48,
+      "right": 63,
+      "textLeft": 48,
+      "textRight": 63,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "MOTION, MONOCHROME.",
+      "size": 54,
+      "top": 685,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 2
+     },
+     {
+      "x": 356,
+      "n": 2
+     },
+     {
+      "x": 187,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 5,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.79,
+    0.53,
+    0.33
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 2,
+    "transitions": 15,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2100,
+     "screens": 2.5,
+     "words": 109,
+     "img": 6,
+     "video": 1,
+     "canvas": 1,
+     "svg": 0,
+     "sections": 2,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "eink-poster.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "chars": 19,
+     "lines": 2,
+     "size": 44,
+     "vw": 11.3,
+     "font": "Chivo",
+     "weight": 900,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 519,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "MOTION, MONOCHROME.",
+     "words": 2,
+     "lines": 2,
+     "size": 44,
+     "font": "Chivo"
+    },
+    "headings": [
+     {
+      "text": "mammu",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Chivo",
+      "weight": 700,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 32,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "MOTION, MONOCHROME.",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 519,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "SELECTED WORK",
+      "words": 2,
+      "chars": 13,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 784,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "AFTERGLOW",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 868,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "NOIRFM",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 975,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "STATIC BLOOM",
+      "words": 2,
+      "chars": 12,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 1071,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "GRAYSCALE FEST",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 1188,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "HALF//LIGHT",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 1315,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "VESPER",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1411,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "OBLIQUE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1497,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "KASSA",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1584,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "START A PROJECT",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 34,
+      "vw": 8.7,
+      "font": "Chivo",
+      "weight": 900,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1740,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 8,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Chivo",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      22,
+      30,
+      32,
+      34,
+      44
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Chivo",
+      "size": 16,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 7.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 44,
+      "vw": 11.3,
+      "font": "Chivo",
+      "text": "Motion,"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.18,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0a0a0a",
+       "top": 852,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.65
+      },
+      {
+       "color": "#525252",
+       "share": 0.32
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#0a0a0a",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.04
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a project"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "canvas",
+      "ratio": 1
+     },
+     {
+      "type": "img",
+      "ratio": 0.79
+     },
+     {
+      "type": "video",
+      "ratio": 0.79
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 56,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "chivo"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2100,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.relative.flex",
+      "tag": "section",
+      "top": 56,
+      "height": 664,
+      "words": 25,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Motion,",
+       "size": 44,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "ul.mt-8.md:mt-12",
+      "tag": "ul",
+      "top": 846,
+      "height": 812,
+      "words": 36,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "AFTERGLOW",
+       "size": 32,
+       "tag": "span"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 165,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.mt-10.flex",
+      "tag": "div",
+      "top": 1852,
+      "height": 152,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 26,
+      "textLeft": 24,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "MOTION, MONOCHROME.",
+      "size": 44,
+      "top": 519,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 5
+     }
+    ],
+    "leftBlocks": 5,
+    "bodySize": 16,
+    "stage": true,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-home/desktop-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-home/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-home/tablet-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-home/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/root/mammu-portofolio/.taste-skill/final-home/mobile-fold.jpg",
+   "pages": [
+    "/root/mammu-portofolio/.taste-skill/final-home/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
